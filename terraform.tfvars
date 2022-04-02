@@ -1,0 +1,6 @@
+myRegion= "us-east-1"
+myami= "ami-0c02fb55956c7d316"
+key_name= "deployer"
+myinstancetype = "t2.micro"
+PK= "C:\\Users\\lenovo\\.ssh\\id_rsa"
+public_key="C:\\Users\\lenovo\\.ssh\\id_rsa.pub"
